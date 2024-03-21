@@ -21,3 +21,9 @@
     margin: 0 16px;
     font-size: 28px;
 }
+
+.livro-imagem {
+    width: 25%;
+    display: flex;
+
+}
