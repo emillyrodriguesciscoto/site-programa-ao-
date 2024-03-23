@@ -24,6 +24,20 @@
 
 .livro-imagem {
     width: 25%;
-    display: flex;
+    padding: 24px;
 
+}
+.site{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.ste-div-conteudo{
+    width: 35%;
+}
+
+.site-titulo{
+    padding: 24px 0;
 }
